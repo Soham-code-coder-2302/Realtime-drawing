@@ -1,0 +1,43 @@
+.heading {
+background-color: gray;
+border-radius: 10px;
+color: white;
+box-shadow: 3px 3px 5px black;
+width: 93%;
+height: 15%;
+font-size: 30px;
+padding: 10px;
+pointer-events: none;
+}
+
+.heading span {
+font-size: 20px;
+}
+
+#square_size {
+font-size: 25px;
+color: aqua;
+font-weight: bold;
+}
+
+.copy_right_footer {
+background-color: gray;
+color: white;
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+font-size: 17px;
+line-height: 2;
+}
+
+canvas {
+border:5px ridge white;
+background-color: white;
+box-shadow: 3px 3px 4px black;
+}
+
+video {
+border:5px ridge white;
+box-shadow: 3px 3px 4px black;
+}
